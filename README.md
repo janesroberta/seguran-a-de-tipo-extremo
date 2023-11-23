@@ -1,0 +1,2 @@
+# segurança de tipo extremo
+ 
